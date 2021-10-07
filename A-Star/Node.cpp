@@ -6,11 +6,42 @@
 
 Node::Node() = default;
 
-Node::Node(int x, int y, bool _walkable, Node* _prev_node) : location_x(x), location_y(y), walkable(_walkable), prev_node(_prev_node){
+Node::Node(int x, int y, bool _walkable, Node* _prev_node) :
+location_x(x), location_y(y), walkable(_walkable), prev_node(_prev_node){
 }
 
 Node::~Node() = default;
 
+void Node::Determine_Neighbors(int id) {
+
+    int first_neighbor = 0;
+    int second_neighbor = 0;
+
+    if(id == 0){
+
+        first_neighbor = 233 ;
+        second_neighbor = id + 1;
+    }
+    else if (id == 233){
+
+        first_neighbor = 0;
+        second_neighbor = id - 1;
+    }
+    else{
+
+        first_neighbor = id - 1;
+        second_neighbor = id + 1;
+    }
+
+    neighbors.push_back(first_neighbor);
+    neighbors.push_back(second_neighbor);
+}
+
+
+std::vector<int> Node::Get_Neighbors() const{
+
+    return neighbors;
+}
 
 float Node::Get_G() const{
     // Just compute previous nodes and return cost to travel from start to this node

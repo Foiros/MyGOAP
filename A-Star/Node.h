@@ -7,6 +7,7 @@
 
 #include <iterator>
 #include <algorithm>
+#include <vector>
 
 
 class Node {
@@ -14,6 +15,7 @@ class Node {
 public:
     int location_x, location_y;
     bool walkable;
+    std::vector<int> neighbors;
     Node* prev_node;
 
 public:
@@ -21,6 +23,9 @@ public:
     Node(int, int, bool, Node*);
     ~Node();
 
+    void Determine_Neighbors(int id);
+
+    [[nodiscard]] std::vector<int> Get_Neighbors() const;
     [[nodiscard]] float Get_G() const;
     float Get_H(Node*) const;
     float Get_F(Node*) const;

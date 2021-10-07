@@ -4,8 +4,10 @@
 CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.obj: ..\A-Star\Node.cpp
 CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.obj: ..\A-Star\Node.h
 
+CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.obj: ..\A-Star\Node.h
 CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.obj: ..\A-Star\Pathfinder.cpp
 CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.obj: ..\A-Star\Pathfinder.h
+CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.obj: ..\A-Star\PathfindingGrid.h
 
 CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.obj: ..\A-Star\Node.h
 CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.obj: ..\A-Star\PathfindingGrid.cpp
@@ -15,6 +17,7 @@ CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.obj: ..\GOAP\SimpleGOAP.cpp
 CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.obj: ..\GOAP\SimpleGOAP.h
 
 CMakeFiles\MyGOAP.dir\main.cpp.obj: ..\A-Star\Node.h
+CMakeFiles\MyGOAP.dir\main.cpp.obj: ..\A-Star\Pathfinder.h
 CMakeFiles\MyGOAP.dir\main.cpp.obj: ..\A-Star\PathfindingGrid.h
 CMakeFiles\MyGOAP.dir\main.cpp.obj: ..\main.cpp
 

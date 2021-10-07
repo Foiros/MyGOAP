@@ -11,8 +11,22 @@ iterator
 -
 algorithm
 -
+vector
+-
 
-E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/PathfindingGrid.cpp
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Pathfinder.cpp
+Pathfinder.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Pathfinder.h
+
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Pathfinder.h
+iostream
+-
+vector
+-
+queue
+-
+Node.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Node.h
 PathfindingGrid.h
 E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/PathfindingGrid.h
 

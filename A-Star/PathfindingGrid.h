@@ -30,12 +30,6 @@ class PathfindingGrid {
 
 private:
     int width, height;
-
-    // East, west, north, south
-    const std::vector<Node> directions = {Node{1, 0, true, nullptr},
-                                         Node{-1, 0, true, nullptr},
-                                         Node{0, -1, true, nullptr},
-                                         Node{0, 1,true, nullptr}};
     std::vector<Node*> nodes_on_grid;
     std::vector<Node*> unwalkable_nodes;
 
@@ -50,10 +44,10 @@ public:
 
     void PrintGrid();
 
-    std::vector<Node*> Get_Neighbors(Node);
     int Get_Width();
     int Get_Height();
     std::vector<Node*> Return_Nodes();
+    std::vector<Node*> Return_Specific_Nodes(std::vector<int>);
     std::vector<Node*> Return_Unwalkable_Nodes();
 };
 
