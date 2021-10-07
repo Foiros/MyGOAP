@@ -118,6 +118,102 @@ MyGOAP\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\build
 .PHONY : MyGOAP\fast
 
+A-Star\Node.obj: A-Star\Node.cpp.obj
+.PHONY : A-Star\Node.obj
+
+# target to build an object file
+A-Star\Node.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.obj
+.PHONY : A-Star\Node.cpp.obj
+
+A-Star\Node.i: A-Star\Node.cpp.i
+.PHONY : A-Star\Node.i
+
+# target to preprocess a source file
+A-Star\Node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.i
+.PHONY : A-Star\Node.cpp.i
+
+A-Star\Node.s: A-Star\Node.cpp.s
+.PHONY : A-Star\Node.s
+
+# target to generate assembly for a file
+A-Star\Node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.s
+.PHONY : A-Star\Node.cpp.s
+
+A-Star\Pathfinder.obj: A-Star\Pathfinder.cpp.obj
+.PHONY : A-Star\Pathfinder.obj
+
+# target to build an object file
+A-Star\Pathfinder.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.obj
+.PHONY : A-Star\Pathfinder.cpp.obj
+
+A-Star\Pathfinder.i: A-Star\Pathfinder.cpp.i
+.PHONY : A-Star\Pathfinder.i
+
+# target to preprocess a source file
+A-Star\Pathfinder.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.i
+.PHONY : A-Star\Pathfinder.cpp.i
+
+A-Star\Pathfinder.s: A-Star\Pathfinder.cpp.s
+.PHONY : A-Star\Pathfinder.s
+
+# target to generate assembly for a file
+A-Star\Pathfinder.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.s
+.PHONY : A-Star\Pathfinder.cpp.s
+
+A-Star\PathfindingGrid.obj: A-Star\PathfindingGrid.cpp.obj
+.PHONY : A-Star\PathfindingGrid.obj
+
+# target to build an object file
+A-Star\PathfindingGrid.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.obj
+.PHONY : A-Star\PathfindingGrid.cpp.obj
+
+A-Star\PathfindingGrid.i: A-Star\PathfindingGrid.cpp.i
+.PHONY : A-Star\PathfindingGrid.i
+
+# target to preprocess a source file
+A-Star\PathfindingGrid.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.i
+.PHONY : A-Star\PathfindingGrid.cpp.i
+
+A-Star\PathfindingGrid.s: A-Star\PathfindingGrid.cpp.s
+.PHONY : A-Star\PathfindingGrid.s
+
+# target to generate assembly for a file
+A-Star\PathfindingGrid.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.s
+.PHONY : A-Star\PathfindingGrid.cpp.s
+
+GOAP\SimpleGOAP.obj: GOAP\SimpleGOAP.cpp.obj
+.PHONY : GOAP\SimpleGOAP.obj
+
+# target to build an object file
+GOAP\SimpleGOAP.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.obj
+.PHONY : GOAP\SimpleGOAP.cpp.obj
+
+GOAP\SimpleGOAP.i: GOAP\SimpleGOAP.cpp.i
+.PHONY : GOAP\SimpleGOAP.i
+
+# target to preprocess a source file
+GOAP\SimpleGOAP.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.i
+.PHONY : GOAP\SimpleGOAP.cpp.i
+
+GOAP\SimpleGOAP.s: GOAP\SimpleGOAP.cpp.s
+.PHONY : GOAP\SimpleGOAP.s
+
+# target to generate assembly for a file
+GOAP\SimpleGOAP.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.s
+.PHONY : GOAP\SimpleGOAP.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -151,6 +247,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... MyGOAP
+	@echo ... A-Star/Node.obj
+	@echo ... A-Star/Node.i
+	@echo ... A-Star/Node.s
+	@echo ... A-Star/Pathfinder.obj
+	@echo ... A-Star/Pathfinder.i
+	@echo ... A-Star/Pathfinder.s
+	@echo ... A-Star/PathfindingGrid.obj
+	@echo ... A-Star/PathfindingGrid.i
+	@echo ... A-Star/PathfindingGrid.s
+	@echo ... GOAP/SimpleGOAP.obj
+	@echo ... GOAP/SimpleGOAP.i
+	@echo ... GOAP/SimpleGOAP.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

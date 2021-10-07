@@ -1,6 +1,10 @@
 #include <iostream>
+#include "A-Star/PathfindingGrid.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+
+    auto grid = new PathfindingGrid(13, 9);
+    grid->PrintGrid();
+
     return 0;
 }

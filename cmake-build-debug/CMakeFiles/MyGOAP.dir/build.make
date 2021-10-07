@@ -74,17 +74,101 @@ CMakeFiles\MyGOAP.dir\main.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\MyGOAP.dir\main.cpp.s /c "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\main.cpp"
 <<
 
+CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.obj: CMakeFiles\MyGOAP.dir\flags.make
+CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.obj: ..\A-Star\PathfindingGrid.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MyGOAP.dir/A-Star/PathfindingGrid.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.obj /FdCMakeFiles\MyGOAP.dir\ /FS -c "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\A-Star\PathfindingGrid.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyGOAP.dir/A-Star/PathfindingGrid.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\A-Star\PathfindingGrid.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyGOAP.dir/A-Star/PathfindingGrid.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.s /c "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\A-Star\PathfindingGrid.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.obj: CMakeFiles\MyGOAP.dir\flags.make
+CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.obj: ..\GOAP\SimpleGOAP.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MyGOAP.dir/GOAP/SimpleGOAP.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.obj /FdCMakeFiles\MyGOAP.dir\ /FS -c "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\GOAP\SimpleGOAP.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyGOAP.dir/GOAP/SimpleGOAP.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\GOAP\SimpleGOAP.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyGOAP.dir/GOAP/SimpleGOAP.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.s /c "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\GOAP\SimpleGOAP.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.obj: CMakeFiles\MyGOAP.dir\flags.make
+CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.obj: ..\A-Star\Pathfinder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MyGOAP.dir/A-Star/Pathfinder.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.obj /FdCMakeFiles\MyGOAP.dir\ /FS -c "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\A-Star\Pathfinder.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyGOAP.dir/A-Star/Pathfinder.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\A-Star\Pathfinder.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyGOAP.dir/A-Star/Pathfinder.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.s /c "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\A-Star\Pathfinder.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.obj: CMakeFiles\MyGOAP.dir\flags.make
+CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.obj: ..\A-Star\Node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MyGOAP.dir/A-Star/Node.cpp.obj"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\MyGOAP.dir\A-Star\Node.cpp.obj /FdCMakeFiles\MyGOAP.dir\ /FS -c "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\A-Star\Node.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyGOAP.dir/A-Star/Node.cpp.i"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\A-Star\Node.cpp"
+<<
+
+CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyGOAP.dir/A-Star/Node.cpp.s"
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\MyGOAP.dir\A-Star\Node.cpp.s /c "E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\A-Star\Node.cpp"
+<<
+
 # Object files for target MyGOAP
 MyGOAP_OBJECTS = \
-"CMakeFiles\MyGOAP.dir\main.cpp.obj"
+"CMakeFiles\MyGOAP.dir\main.cpp.obj" \
+"CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.obj" \
+"CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.obj" \
+"CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.obj" \
+"CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.obj"
 
 # External object files for target MyGOAP
 MyGOAP_EXTERNAL_OBJECTS =
 
 MyGOAP.exe: CMakeFiles\MyGOAP.dir\main.cpp.obj
+MyGOAP.exe: CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.obj
+MyGOAP.exe: CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.obj
+MyGOAP.exe: CMakeFiles\MyGOAP.dir\A-Star\Pathfinder.cpp.obj
+MyGOAP.exe: CMakeFiles\MyGOAP.dir\A-Star\Node.cpp.obj
 MyGOAP.exe: CMakeFiles\MyGOAP.dir\build.make
 MyGOAP.exe: CMakeFiles\MyGOAP.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable MyGOAP.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable MyGOAP.exe"
 	"E:\JetBrains\CLion 2021.1\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\MyGOAP.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\MyGOAP.dir\objects1.rsp @<<
  /out:MyGOAP.exe /implib:MyGOAP.lib /pdb:"E:\Yliopisto toita\GitHub\MyGOAP\MyGOAP\cmake-build-debug\MyGOAP.pdb" /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

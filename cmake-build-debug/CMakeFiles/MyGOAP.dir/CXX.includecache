@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Node.h
+iterator
+-
+algorithm
+-
+
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/PathfindingGrid.cpp
+PathfindingGrid.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/PathfindingGrid.h
+
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/PathfindingGrid.h
+iostream
+-
+vector
+-
+set
+-
+unordered_set
+-
+map
+-
+unordered_map
+-
+Node.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Node.h
+

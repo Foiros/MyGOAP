@@ -82,6 +82,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Node.cpp">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Node.h">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Pathfinder.cpp">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Pathfinder.h">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/PathfindingGrid.cpp">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/PathfindingGrid.h">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/SimpleGOAP.cpp">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/SimpleGOAP.h">
+			<Option target="MyGOAP"/>
+		</Unit>
 		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/main.cpp">
 			<Option target="MyGOAP"/>
 		</Unit>
