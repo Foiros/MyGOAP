@@ -190,29 +190,173 @@ A-Star\PathfindingGrid.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\A-Star\PathfindingGrid.cpp.s
 .PHONY : A-Star\PathfindingGrid.cpp.s
 
-GOAP\SimpleGOAP.obj: GOAP\SimpleGOAP.cpp.obj
-.PHONY : GOAP\SimpleGOAP.obj
+GOAP\Action.obj: GOAP\Action.cpp.obj
+.PHONY : GOAP\Action.obj
 
 # target to build an object file
-GOAP\SimpleGOAP.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.obj
-.PHONY : GOAP\SimpleGOAP.cpp.obj
+GOAP\Action.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Action.cpp.obj
+.PHONY : GOAP\Action.cpp.obj
 
-GOAP\SimpleGOAP.i: GOAP\SimpleGOAP.cpp.i
-.PHONY : GOAP\SimpleGOAP.i
+GOAP\Action.i: GOAP\Action.cpp.i
+.PHONY : GOAP\Action.i
 
 # target to preprocess a source file
-GOAP\SimpleGOAP.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.i
-.PHONY : GOAP\SimpleGOAP.cpp.i
+GOAP\Action.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Action.cpp.i
+.PHONY : GOAP\Action.cpp.i
 
-GOAP\SimpleGOAP.s: GOAP\SimpleGOAP.cpp.s
-.PHONY : GOAP\SimpleGOAP.s
+GOAP\Action.s: GOAP\Action.cpp.s
+.PHONY : GOAP\Action.s
 
 # target to generate assembly for a file
-GOAP\SimpleGOAP.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\SimpleGOAP.cpp.s
-.PHONY : GOAP\SimpleGOAP.cpp.s
+GOAP\Action.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Action.cpp.s
+.PHONY : GOAP\Action.cpp.s
+
+GOAP\Brain.obj: GOAP\Brain.cpp.obj
+.PHONY : GOAP\Brain.obj
+
+# target to build an object file
+GOAP\Brain.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Brain.cpp.obj
+.PHONY : GOAP\Brain.cpp.obj
+
+GOAP\Brain.i: GOAP\Brain.cpp.i
+.PHONY : GOAP\Brain.i
+
+# target to preprocess a source file
+GOAP\Brain.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Brain.cpp.i
+.PHONY : GOAP\Brain.cpp.i
+
+GOAP\Brain.s: GOAP\Brain.cpp.s
+.PHONY : GOAP\Brain.s
+
+# target to generate assembly for a file
+GOAP\Brain.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Brain.cpp.s
+.PHONY : GOAP\Brain.cpp.s
+
+GOAP\BuildWeapons.obj: GOAP\BuildWeapons.cpp.obj
+.PHONY : GOAP\BuildWeapons.obj
+
+# target to build an object file
+GOAP\BuildWeapons.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\BuildWeapons.cpp.obj
+.PHONY : GOAP\BuildWeapons.cpp.obj
+
+GOAP\BuildWeapons.i: GOAP\BuildWeapons.cpp.i
+.PHONY : GOAP\BuildWeapons.i
+
+# target to preprocess a source file
+GOAP\BuildWeapons.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\BuildWeapons.cpp.i
+.PHONY : GOAP\BuildWeapons.cpp.i
+
+GOAP\BuildWeapons.s: GOAP\BuildWeapons.cpp.s
+.PHONY : GOAP\BuildWeapons.s
+
+# target to generate assembly for a file
+GOAP\BuildWeapons.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\BuildWeapons.cpp.s
+.PHONY : GOAP\BuildWeapons.cpp.s
+
+GOAP\Eat.obj: GOAP\Eat.cpp.obj
+.PHONY : GOAP\Eat.obj
+
+# target to build an object file
+GOAP\Eat.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Eat.cpp.obj
+.PHONY : GOAP\Eat.cpp.obj
+
+GOAP\Eat.i: GOAP\Eat.cpp.i
+.PHONY : GOAP\Eat.i
+
+# target to preprocess a source file
+GOAP\Eat.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Eat.cpp.i
+.PHONY : GOAP\Eat.cpp.i
+
+GOAP\Eat.s: GOAP\Eat.cpp.s
+.PHONY : GOAP\Eat.s
+
+# target to generate assembly for a file
+GOAP\Eat.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Eat.cpp.s
+.PHONY : GOAP\Eat.cpp.s
+
+GOAP\GatherFood.obj: GOAP\GatherFood.cpp.obj
+.PHONY : GOAP\GatherFood.obj
+
+# target to build an object file
+GOAP\GatherFood.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\GatherFood.cpp.obj
+.PHONY : GOAP\GatherFood.cpp.obj
+
+GOAP\GatherFood.i: GOAP\GatherFood.cpp.i
+.PHONY : GOAP\GatherFood.i
+
+# target to preprocess a source file
+GOAP\GatherFood.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\GatherFood.cpp.i
+.PHONY : GOAP\GatherFood.cpp.i
+
+GOAP\GatherFood.s: GOAP\GatherFood.cpp.s
+.PHONY : GOAP\GatherFood.s
+
+# target to generate assembly for a file
+GOAP\GatherFood.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\GatherFood.cpp.s
+.PHONY : GOAP\GatherFood.cpp.s
+
+GOAP\Sleep.obj: GOAP\Sleep.cpp.obj
+.PHONY : GOAP\Sleep.obj
+
+# target to build an object file
+GOAP\Sleep.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Sleep.cpp.obj
+.PHONY : GOAP\Sleep.cpp.obj
+
+GOAP\Sleep.i: GOAP\Sleep.cpp.i
+.PHONY : GOAP\Sleep.i
+
+# target to preprocess a source file
+GOAP\Sleep.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Sleep.cpp.i
+.PHONY : GOAP\Sleep.cpp.i
+
+GOAP\Sleep.s: GOAP\Sleep.cpp.s
+.PHONY : GOAP\Sleep.s
+
+# target to generate assembly for a file
+GOAP\Sleep.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Sleep.cpp.s
+.PHONY : GOAP\Sleep.cpp.s
+
+GOAP\Worker.obj: GOAP\Worker.cpp.obj
+.PHONY : GOAP\Worker.obj
+
+# target to build an object file
+GOAP\Worker.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Worker.cpp.obj
+.PHONY : GOAP\Worker.cpp.obj
+
+GOAP\Worker.i: GOAP\Worker.cpp.i
+.PHONY : GOAP\Worker.i
+
+# target to preprocess a source file
+GOAP\Worker.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Worker.cpp.i
+.PHONY : GOAP\Worker.cpp.i
+
+GOAP\Worker.s: GOAP\Worker.cpp.s
+.PHONY : GOAP\Worker.s
+
+# target to generate assembly for a file
+GOAP\Worker.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\MyGOAP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\MyGOAP.dir\GOAP\Worker.cpp.s
+.PHONY : GOAP\Worker.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -256,9 +400,27 @@ help:
 	@echo ... A-Star/PathfindingGrid.obj
 	@echo ... A-Star/PathfindingGrid.i
 	@echo ... A-Star/PathfindingGrid.s
-	@echo ... GOAP/SimpleGOAP.obj
-	@echo ... GOAP/SimpleGOAP.i
-	@echo ... GOAP/SimpleGOAP.s
+	@echo ... GOAP/Action.obj
+	@echo ... GOAP/Action.i
+	@echo ... GOAP/Action.s
+	@echo ... GOAP/Brain.obj
+	@echo ... GOAP/Brain.i
+	@echo ... GOAP/Brain.s
+	@echo ... GOAP/BuildWeapons.obj
+	@echo ... GOAP/BuildWeapons.i
+	@echo ... GOAP/BuildWeapons.s
+	@echo ... GOAP/Eat.obj
+	@echo ... GOAP/Eat.i
+	@echo ... GOAP/Eat.s
+	@echo ... GOAP/GatherFood.obj
+	@echo ... GOAP/GatherFood.i
+	@echo ... GOAP/GatherFood.s
+	@echo ... GOAP/Sleep.obj
+	@echo ... GOAP/Sleep.i
+	@echo ... GOAP/Sleep.s
+	@echo ... GOAP/Worker.obj
+	@echo ... GOAP/Worker.i
+	@echo ... GOAP/Worker.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

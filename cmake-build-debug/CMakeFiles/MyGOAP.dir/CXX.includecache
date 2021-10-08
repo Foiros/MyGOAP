@@ -6,43 +6,47 @@
 
 #IncludeRegexTransform: 
 
-E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Node.h
-iterator
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Action.h
+string
 -
-algorithm
--
-vector
--
-
-E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Pathfinder.cpp
-Pathfinder.h
-E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Pathfinder.h
-
-E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Pathfinder.h
 iostream
 -
-vector
--
-queue
--
-Node.h
-E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Node.h
-PathfindingGrid.h
-E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/PathfindingGrid.h
 
-E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/PathfindingGrid.h
-iostream
--
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Brain.h
+Action.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Action.h
+Eat.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Eat.h
+GatherFood.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/GatherFood.h
+Sleep.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Sleep.h
+BuildWeapons.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/BuildWeapons.h
 vector
 -
-set
--
-unordered_set
--
-map
--
-unordered_map
--
-Node.h
-E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/Node.h
+
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/BuildWeapons.h
+Action.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Action.h
+
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Eat.h
+Action.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Action.h
+
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/GatherFood.h
+Action.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Action.h
+
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Sleep.h
+Action.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Action.h
+
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Worker.cpp
+Worker.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Worker.h
+
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Worker.h
+Brain.h
+E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Brain.h
 

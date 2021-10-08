@@ -100,10 +100,46 @@
 		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/A-Star/PathfindingGrid.h">
 			<Option target="MyGOAP"/>
 		</Unit>
-		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/SimpleGOAP.cpp">
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Action.cpp">
 			<Option target="MyGOAP"/>
 		</Unit>
-		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/SimpleGOAP.h">
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Action.h">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Brain.cpp">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Brain.h">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/BuildWeapons.cpp">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/BuildWeapons.h">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Eat.cpp">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Eat.h">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/GatherFood.cpp">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/GatherFood.h">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Sleep.cpp">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Sleep.h">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Worker.cpp">
+			<Option target="MyGOAP"/>
+		</Unit>
+		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/GOAP/Worker.h">
 			<Option target="MyGOAP"/>
 		</Unit>
 		<Unit filename="E:/Yliopisto toita/GitHub/MyGOAP/MyGOAP/main.cpp">
